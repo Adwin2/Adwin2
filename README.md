@@ -41,8 +41,7 @@ Daily record of my CS study
 
 ## 📚 博客文章
 
-- [文章标题1](https://your-blog.com/post1)
-- [文章标题2](https://your-blog.com/post2)
+- [50 Shades of Go](https://adwin2.github.io/2025/03/03/blog-GoNotes/)
 
 
 
