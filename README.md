@@ -30,6 +30,13 @@ Simple reproduction of Redis
 
 ![GitHub Stars](https://img.shields.io/github/stars/Adwin2/ryan_redis?style=social) ![GitHub Forks](https://img.shields.io/github/forks/Adwin2/ryan_redis?style=social) ![GitHub Language](https://img.shields.io/github/languages/top/Adwin2/ryan_redis)
 
+### [ryan_Mall](https://github.com/Adwin2/ryan_Mall)
+Optimized e-commerce projects
+
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=golang) 
+
+![GitHub Stars](https://img.shields.io/github/stars/Adwin2/ryan_mall?style=social) ![GitHub Forks](https://img.shields.io/github/forks/Adwin2/ryan_mall?style=social) ![GitHub Language](https://img.shields.io/github/languages/top/Adwin2/ryan_mall)
+
 ### [Ray_CS_log](https://github.com/Adwin2/Ray_CS_log)
 Daily record of my CS study
 
