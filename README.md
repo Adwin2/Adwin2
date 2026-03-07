@@ -1,7 +1,7 @@
 ## Hi there 👋
 # Ryan Mendez
 
-Golang Developer | Open Source Contributor
+CS Junior @ TYUT | Golang Backend Intern @ Baidu MEG
 
 
 ## 📊 GitHub Stats
@@ -18,69 +18,61 @@ Golang Developer | Open Source Contributor
 
 ## 💻 Skills
 
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=golang) ![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c++) ![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python) ![Docker](https://img.shields.io/badge/-Docker-black?style=flat&logo=docker) ![Kubernetes](https://img.shields.io/badge/-Kubernetes-black?style=flat&logo=kubernetes) 
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white) ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white) ![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat&logo=redis&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white) ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black) ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
 
 ## 🚀 Projects
 
 ### [ryan_Redis](https://github.com/Adwin2/ryan_Redis)
-Simple reproduction of Redis
+Go implementation of Redis core: RESP protocol, data structures (string/list/hash/set/zset), AOF persistence, cluster mode.
 
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=golang) 
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=golang)
 
 ![GitHub Stars](https://img.shields.io/github/stars/Adwin2/ryan_redis?style=social) ![GitHub Forks](https://img.shields.io/github/forks/Adwin2/ryan_redis?style=social) ![GitHub Language](https://img.shields.io/github/languages/top/Adwin2/ryan_redis)
 
 ### [ryan_Mall](https://github.com/Adwin2/ryan_Mall)
-Optimized e-commerce projects
+E-commerce backend in Go: user auth, product catalog, cart, order system with MySQL + Redis caching.
 
-![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=golang) 
+![Golang](https://img.shields.io/badge/-Golang-black?style=flat&logo=golang)
 
 ![GitHub Stars](https://img.shields.io/github/stars/Adwin2/ryan_mall?style=social) ![GitHub Forks](https://img.shields.io/github/forks/Adwin2/ryan_mall?style=social) ![GitHub Language](https://img.shields.io/github/languages/top/Adwin2/ryan_mall)
 
 ### [Ray_CS_log](https://github.com/Adwin2/Ray_CS_log)
-Daily record of my CS study
+Daily record of my CS study: data structures, algorithms, OS, networking.
 
-![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c++) ![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux) 
+![C++](https://img.shields.io/badge/-C++-black?style=flat&logo=c++) ![Go](https://img.shields.io/badge/-Go-black?style=flat&logo=go) ![Linux](https://img.shields.io/badge/-Linux-black?style=flat&logo=linux)
 
 ![GitHub Stars](https://img.shields.io/github/stars/Adwin2/ray_cs_log?style=social) ![GitHub Language](https://img.shields.io/github/languages/top/Adwin2/ray_cs_log)
 
 
 
-## 📚 博客文章
+## 📚 Blog
 
-- [50 Shades of Go](https://adwin2.github.io/2025/03/03/blog-GoNotes/)
+I write about Go backend, algorithms, and AI engineering at [adwin2.github.io](https://adwin2.github.io).
+
+- [LLM Agent 工程实践：用 Go 实现 ReAct 模式](https://adwin2.github.io/2025/12/05/llm-agent-engineering-with-go/)
+- [用 Go 构建 RAG 系统](https://adwin2.github.io/2025/08/20/building-rag-system-with-go/)
+- [Go 并发编程实战笔记](https://adwin2.github.io/2025/05/12/go-concurrency-in-practice/)
+- [LeetCode Hot 100 题解 (Go)](https://adwin2.github.io/categories/#算法)
 
 
 
-## 🎓 教育背景
+## 🎓 Education
 
 - **太原理工大学** - 物联网工程 (2023-2027)
-- 相关课程: 数据结构，操作系统等
+
+## 💼 Experience
+
+- **Baidu MEG / 百度健康** — Golang Backend Intern (2025.08 - Present)
 
 
 
 ## 🌐 Connect with Me
 
 <a href='https://adwin2.github.io' target='_blank'><img align='center' src='https://img.shields.io/badge/-Website-black?style=flat&logo=globe&logoColor=white' alt='Website'/></a>
-<a href='mailto:1528411608@qq.com' target='_blank'><img align='center' src='https://img.shields.io/badge/-Email-black?style=flat&logo=link&logoColor=white' alt='Email'/></a>
+<a href='mailto:ryanmendez2027@gmail.com' target='_blank'><img align='center' src='https://img.shields.io/badge/-Email-black?style=flat&logo=gmail&logoColor=white' alt='Email'/></a>
 
 
 
 ---
 Made with ❤️ by Ryan Mendez
-
-
-<!--
-**Adwin2/Adwin2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
